@@ -1,0 +1,2 @@
+If all numbers are identical, then one line is output;
+If all numbers are unique, then the numbers will be output respectively in their own line.

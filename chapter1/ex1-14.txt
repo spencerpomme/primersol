@@ -1,0 +1,2 @@
+The for loop is more concise when the total rounds of looping is know beforehand, while the while loop
+is more suitable when such information is not know but only the stop condition is given.
