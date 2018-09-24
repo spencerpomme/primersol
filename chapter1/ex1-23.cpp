@@ -4,8 +4,8 @@
 int main() {
     Sales_item curr, last;
     int count = 0;
-    std::cin >> last;
-    if (last) {
+    
+    if (std::cin >> last) {
         while (std::cin >> curr) {
             if (curr.isbn() == last.isbn()) {
                 ++count;
