@@ -7,7 +7,7 @@ int main() {
 
     int i = 10, i2 = 42;
     std::cout << i2 - i << std::endl;
-    std::cout << i - i2 << std::endl;
+    std::cout << i - i2 << std::end
     std::cout << i - u << std::endl;
     std::cout << u - i << std::endl;
 
